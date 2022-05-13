@@ -1,0 +1,7 @@
+{
+  "name": "password-genarator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
